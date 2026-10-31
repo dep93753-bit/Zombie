@@ -1,0 +1,16 @@
+[
+  {
+    "file": "assets/models/zombies/walker.glb",
+    "title": "Zombie",
+    "creator": "Quaternius",
+    "license": "CC0 1.0",
+    "source": "https://poly.pizza/m/VlXjG0N8Eg"
+  },
+  {
+    "file": "assets/models/weapons/pistol.glb",
+    "title": "Pistol",
+    "creator": "Quaternius",
+    "license": "CC0 1.0",
+    "source": "https://poly.pizza/m/J3i9KDQ3kt"
+  }
+]
